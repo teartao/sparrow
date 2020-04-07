@@ -1,0 +1,31 @@
+# Java compile file
+*.class
+
+
+# Intellij IDEA
+.idea
+*.iml
+target/
+target/*
+out/
+out/*
+
+# eclipse
+.classpath
+.settings
+
+# mvn config
+mvnw
+mvnw.cmd
+.mvn/
+
+# .gitignore
+
+# windows
+Thumbs.db
+
+# mac os
+.DS_Store
+
+build/
+
